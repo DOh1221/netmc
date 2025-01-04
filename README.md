@@ -1,2 +1,3 @@
-# netmc
-Server/Client easy library
+# NetMC
+
+Small library to simplify working with Java Sockets.
